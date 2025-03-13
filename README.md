@@ -15,7 +15,4 @@ A **Database Management System (DBMS)** project for managing bike rentals. This 
 - **Database**: MySQL  
 - **Server**: XAMPP  
 
-🚀 Installation & Setup  
-**1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/Kushalsg62/Bike-Rental-Management-System-Using-DBMS.git
+
